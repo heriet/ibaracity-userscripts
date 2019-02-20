@@ -6,7 +6,7 @@
 
 ### Chrome
 
-- Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome)をインストール
+- [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome)をインストール
 - 利用したいスクリプトを下記から選択
 
 ### Firefox
@@ -18,4 +18,4 @@
 
 |ユーザースクリプト|説明|
 |---|---|
-|[https://raw.githubusercontent.com/heriet/ibaracity-userscripts/master/hey-dimension-taxi.user.js|基本画面で次元タクシーを利用しないかつベースキャンプ（チナミ区 B-4 or D-2）に居るときアラートが飛びます|
+|[hey-dimension-taxi.user.js](https://raw.githubusercontent.com/heriet/ibaracity-userscripts/master/hey-dimension-taxi.user.js)|基本画面で次元タクシーを利用しないかつベースキャンプ（チナミ区 B-4 or D-2）に居るときアラートが飛びます|
